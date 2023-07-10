@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8561503991",
+    "firebase_url": "https://blognest-c9bed-default-rtdb.firebaseio.com",
+    "project_id": "blognest-c9bed",
+    "storage_bucket": "blognest-c9bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8561503991:android:1a3ae8087a35aeab496df2",
+        "android_client_info": {
+          "package_name": "com.shivprakash.objekto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8561503991-kcrntgva1dq4rk7k6bb5rbrkglb6q87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSKfWgC7m8pSzNkRjFAa_XR7jHKz7hMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8561503991-kcrntgva1dq4rk7k6bb5rbrkglb6q87a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
