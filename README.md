@@ -10,10 +10,10 @@ BlogNest is a comprehensive open-source Android application developed by Shiv Pr
 - **Open Source**: The application is open-source, allowing developers to contribute, customize, and enhance its features.
 - **Easy to Use**: With an intuitive user interface, BlogNest offers a seamless experience for both reading and creating blog content.
 ## Screenshots
-![Login](screenshots/task_list.png)
-![SignUp](screenshots/edit_task.png)
-![Blogs](screenshots/task_list.png)
-![Add_blogs](screenshots/edit_task.png)
+![Login](app/login.png)
+![SignUp](app/signup.png)
+![Blogs](app/blogs.png)
+![Add_blogs](app/add_blogs.png)
 
 ## Contact Information
 
