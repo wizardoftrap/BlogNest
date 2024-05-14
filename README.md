@@ -9,6 +9,11 @@ BlogNest is a comprehensive open-source Android application developed by Shiv Pr
 - **Realtime Data Storage**: Utilizing Firebase Realtime Database ensures that data is stored and synchronized across devices in real-time.
 - **Open Source**: The application is open-source, allowing developers to contribute, customize, and enhance its features.
 - **Easy to Use**: With an intuitive user interface, BlogNest offers a seamless experience for both reading and creating blog content.
+## Screenshots
+![Login](screenshots/task_list.png)
+![SignUp](screenshots/edit_task.png)
+![Blogs](screenshots/task_list.png)
+![Add_blogs](screenshots/edit_task.png)
 
 ## Contact Information
 
